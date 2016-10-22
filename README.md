@@ -1,5 +1,5 @@
 # AndroidMoviesApp
-Android devices application that presents that most popular movies. 
+Application for android smartphones and tablets that presents the most popular movies. 
 
 This application is part of the [Developing Android Apps](https://classroom.udacity.com/courses/ud853/) course on Udacity and brought by Google.
 
